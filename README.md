@@ -1,0 +1,16 @@
+- 👋 Hi, I’m ...
+        (@Hikari-Owari) Hikari Owari
+- 👀 I’m interested in ...
+        Anime, Manga, Games, usual stuff
+        I also "read" stuff in NH (you know what it is and what the numbers means)
+- 🌱 I’m currently learning ...
+        C++
+- 💞️ I’m (not) looking to collaborate on (yet, because) ...
+        I consider myself too stupid to be able to do a decent contribution in a collaboration
+- 📫 How to reach me ...
+        Twitter --> @Hikari_Owari
+
+<!---
+Hikari-Owari/Hikari-Owari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
